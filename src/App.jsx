@@ -101,7 +101,7 @@ const L = {
     save: "Save",
     cancel: "Cancel",
     empty: "No matching tasks found",
-    footer: "Developed with ❤️ - Your data stays private",
+    footer: "Developed BY Rezki-dev - Your data stays private",
     lang: "العربية",
     stats: {
       total: "Total Tasks",
